@@ -1,0 +1,5 @@
+This is an indispensable assistant for a very busy person.
+
+Will answer for you in a conversational style, for each incoming message.
+
+The neuro-answering machine can conduct a dialogue according to a prepared script, and thus "warm up" the buyer and also collect additional information, in the form of customer requests.

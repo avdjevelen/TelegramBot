@@ -8,8 +8,6 @@ from routers import router as main_router
 # Initialize dispatcher
 dp = Dispatcher()
 
-# Define a list of random phrases
-
 
 async def main():
     dp = Dispatcher()
